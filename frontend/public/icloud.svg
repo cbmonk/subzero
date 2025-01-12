@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="17px" viewBox="0 0 25 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-123">
+            <stop stop-color="#ADE4FA" offset="0%"></stop>
+            <stop stop-color="#4085F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="App-Clip" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Onboarding-Copy" transform="translate(-46.000000, -585.000000)" fill="url(#linearGradient-123)" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(0.000000, 307.000000)">
+                <g id="Group-2" transform="translate(16.000000, 64.000000)">
+                    <g id="Gmail-Copy" transform="translate(0.000000, 198.000000)">
+                        <g id="Days-Left" transform="translate(30.170141, 15.820106)">
+                            <g id="-g-icloud" transform="translate(0.000000, 1.041237)">
+                                <path d="M14.2575642,0 C17.8670558,0 20.7546974,2.79731967 20.9350994,6.40681122 C23.0106498,6.94825915 24.4544303,8.84308496 24.6348323,10.9186353 C24.6348323,13.5356337 22.4690406,15.7012641 19.8522842,15.7012641 L19.8522842,15.7012641 L4.87287005,15.7012641 C2.16571106,15.7012641 0,13.5354724 0,10.828394 C0,8.8431656 1.26329785,7.03841982 3.15828495,6.3165699 C3.24852627,4.51182412 4.69230676,3.06812427 6.49705254,3.06812427 C7.12874179,3.06812427 7.76035039,3.24860692 8.30179832,3.60965284 C9.38469417,1.44386114 11.7309685,0 14.2575642,0 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
