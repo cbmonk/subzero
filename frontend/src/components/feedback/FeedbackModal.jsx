@@ -161,7 +161,7 @@ const FeedbackModal = ({ isOpen, onClose }) => {
             </StarContainer>
 
             <TextArea
-              placeholder="Tell us what you think about Unsubscribe.ai..."
+              placeholder="Tell us what you think about SubZero..."
               value={comment}
               onChange={(e) => setComment(e.target.value)}
             />
